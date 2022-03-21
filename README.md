@@ -1,2 +1,2 @@
-# Crypto-App
-A react based App using where people can see realtime crypto prices using redux toolkit
+# React - Apps
+Basic React Apps based on john smilga course using different react concepts
